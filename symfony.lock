@@ -1,4 +1,7 @@
 {
+    "incenteev/composer-parameter-handler": {
+        "version": "v2.1.4"
+    },
     "psr/cache": {
         "version": "2.0.0"
     },
